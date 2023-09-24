@@ -1,13 +1,11 @@
 # KaiburrTask4-Ankit
-# Task 4 : WEB UI Forms
-
 ## Technologies Used
 * Java
 * SpringBoot
 * Maven
 * MongoDB
 * Html
-* CSS
+* JSP
 
 
 ## Below are the Steps to run the application
@@ -17,6 +15,9 @@
 * ### Click on ```Add Server``` button to add server. After Clicking on it new page will appear.
 
 * ### List of Servers of after adding a server.
+* First type ```http://localhost:2017/home``` to get home page with list of Servers.
+* First type ```http://localhost:2017/addServer``` to get addServer with list of Servers.
+* First type ```http://localhost:2017/deleteServer``` to get delete server with list of Servers.
 
 
 
